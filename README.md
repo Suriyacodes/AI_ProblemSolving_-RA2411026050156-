@@ -1,2 +1,6 @@
-# AI_ProblemSolving_-RA2411026050156-
-AI Assignment - TicTacToe (Minimax) &amp; Map Coloring (CSP)
+# AI Problem Solving Assignment
+
+## Team Members
+
+* Suriyakumar B (Reg No: RA2411026050156)
+* Logapriyan M (Reg No: RA2411026050155)
